@@ -40,6 +40,24 @@ HAF was created to provide a repeatable methodology for answering those question
 
 ---
 
+## Quick Start
+
+HAF can be used without software or special tools.
+
+Start with a specific aviation intelligence question, then apply the eight HAF steps:
+
+**Identify → Collect → Verify → Contextualize → Analyze → Synthesize → Communicate → Review**
+
+### See HAF in Action
+
+The first complete worked example demonstrates the methodology from research question through final intelligence assessment:
+
+**[HAF Worked Example #001 — From Aviation Safety Data to Safety Intelligence](examples/aviation-intelligence-example.md)**
+
+Use the example as a practical reference when applying HAF to your own aviation research.
+
+---
+
 ## Core Objective
 
 HAF aims to help users produce aviation intelligence that is:
@@ -215,6 +233,7 @@ The project is currently focused on establishing:
 * Editorial ethics
 * Documentation standards
 * Practical aviation intelligence templates
+* Worked examples demonstrating practical application
 
 As the project matures, additional examples, templates, implementation guidance, and community contributions will be added.
 
