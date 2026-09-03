@@ -2,8 +2,8 @@
 
 ## HAF Methodology
 
-**Version:** 0.1.0
-**Status:** Initial Public Release
+**Version:** 1.1.0
+**Status:** First Practical Demonstration
 **Repository:** HAF-Aviation-Framework
 **License:** See repository license
 
@@ -142,6 +142,12 @@ Prefer:
 > "Identify and assess significant developments during the specified period that could affect airline operations, aviation safety, regulation, or industry strategy."
 
 A clearly defined requirement improves both research efficiency and analytical quality.
+
+## 6.3 Scope Control
+
+HAF research should remain proportionate to the intelligence requirement. Additional sources, analytical dimensions, and output sections should be added only when they materially improve the answer.
+
+This helps prevent unnecessary complexity and keeps the methodology practical.
 
 ---
 
@@ -866,141 +872,33 @@ INTELLIGENCE REQUIREMENT
           ↓
         REVIEW
           ↓
-   FINAL INTELLIGENCE
-          ↓
-       MONITOR
-          ↺
+ FINAL INTELLIGENCE PRODUCT
 ```
 
-The cycle may return to any earlier stage when new evidence becomes available.
+The cycle may repeat whenever new evidence materially changes the assessment.
 
 ---
 
-# 33. Practical Example
+# 33. Practical Application
 
-Consider a new aviation regulation.
+HAF should be applied proportionately. The objective is not to maximize the number of sources, sections, or analytical steps, but to produce a reliable answer to a defined intelligence requirement.
 
-A basic information approach may produce:
+The first practical demonstration is provided in:
 
-> "The aviation authority issued a new regulation."
-
-A HAF approach asks:
-
-### Identify
-
-What changed?
-
-### Collect
-
-What is the official regulatory publication?
-
-### Verify
-
-What exactly does the regulation require?
-
-### Contextualize
-
-Why was the regulation introduced?
-
-### Analyze
-
-Which organizations and operations are affected?
-
-### Assess
-
-What are the operational, safety, compliance, and financial implications?
-
-### Synthesize
-
-What is the most important conclusion for aviation decision-makers?
-
-### Communicate
-
-How should the information be presented to the intended audience?
-
-### Review
-
-Are the claims supported and are uncertainties clearly identified?
-
-The result is intelligence rather than simple news reporting.
+**[HAF Worked Example #001 — From Aviation Safety Data to Safety Intelligence](../examples/aviation-intelligence-example.md)**
 
 ---
 
-# 34. Continuous Improvement
+# 34. Version 1.1.0 Focus
 
-HAF is intentionally designed as an evolving methodology.
+HAF v1.1.0 represents the project's first practical demonstration release.
 
-The framework should improve through:
+The release focuses on:
 
-* Professional review
-* Practical application
-* Community contributions
-* New aviation developments
-* Lessons learned
-* Changes in technology
-* Changes in regulatory environments
-* Improvements in AI capabilities
-* Identification of methodological weaknesses
+* Making the methodology immediately understandable through Quick Start guidance
+* Demonstrating the complete eight-step process through Worked Example #001
+* Separating evidence, context, analysis, assessment, and limitations
+* Encouraging constructive community review
+* Keeping HAF practical and reusable without unnecessary software or architectural complexity
 
-Future versions may introduce additional analytical models, scoring systems, templates, automation approaches, and specialized aviation modules.
-
----
-
-# 35. Versioning
-
-HAF uses version numbers to communicate the maturity of the framework.
-
-Example:
-
-**0.x**
-
-Development and experimental releases.
-
-**1.0**
-
-First stable methodology release.
-
-Future versions should document significant methodological changes through the project changelog.
-
----
-
-# 36. Open Development
-
-HAF is intended to be developed openly.
-
-The public repository provides a space for:
-
-* Methodology review
-* Documentation
-* Discussion
-* Contributions
-* Templates
-* Examples
-* Research practices
-* Continuous improvement
-
-Contributors are encouraged to challenge assumptions and propose improvements supported by evidence and professional experience.
-
----
-
-# 37. Final Principle
-
-HAF is built around a simple idea:
-
-> **The value of aviation intelligence is not determined by how much information is collected, but by how reliably that information is transformed into understanding.**
-
-The objective of HAF is therefore not to produce more information.
-
-It is to produce **better aviation intelligence**.
-
----
-
-## Document Status
-
-**Framework:** HAF — Hani Aviation Framework™
-**Document:** HAF Methodology
-**Version:** 0.1.0
-**Status:** Initial Public Release
-**Repository:** HAF-Aviation-Framework
-
-This document represents the initial public methodology and is subject to continued development, review, and improvement.
+Future changes should preserve this practical focus.
